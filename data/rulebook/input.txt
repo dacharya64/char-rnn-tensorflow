@@ -11785,7 +11785,7 @@ Junk Room without rolling, and so on.
  You can choose not to be affected by an event card. If
 you choose to be affected by one, though, you have to
 accept any rolls or penalties.
- After you fi nish your turn, you move and attack with
+ After you finish your turn, you move and attack with
 all of the monsters, if any. Even if the traitor dies,
 you still control the monsters. In some haunts, the
 monsters are still able to complete a haunt's goals
@@ -11828,7 +11828,7 @@ an explorer's movement in
 this way.
 What happens if a haunt's
 rules and the regular rules
-confl ict?
+conflict?
 If this happens, use the rules
 in the haunt. All of these
 rules are in effect unless a
@@ -11847,8 +11847,8 @@ roll once for the whole group. Each monster of that
 type can then move that many spaces that turn.
  Most monsters can't be killed. If a monster suffers
 any damage, it is stunned and misses its next turn.
-When a monster is stunned, fl ip its token over. At the
-end of the monster's next turn, fl ip it back. Stunned
+When a monster is stunned, flip its token over. At the
+end of the monster's next turn, flip it back. Stunned
 monsters can't slow an explorer's movement.
  Like explorers, a monster can attack only once
 during its turn. Monsters often use traits other
@@ -11885,20 +11885,21 @@ Win" section from that side's haunt book out loud.
 
 
 
+
 GAME NAME:
-KING OF NEW YORK
+King of New York
 
 HOW TO PLAY:
 Players take turns in clockwise
 order.
-In order to see who goes fi rst,
+In order to see who goes first,
 each player rolls the 6 black
 dice and the 2 green dice,
 and whoever rolls the most
-Attacks (
-Faces for dices (King of tokyo) (2 kinds of dice, black dice and green dice)
-) starts the game.
-Starting with the fi rst player, and
+Attacks
+Faces for dices (King of Tokyo) (2 kinds of dice, black dice and green dice)
+starts the game.
+Starting with the first player, and
 going clockwise: Place your Monster
 in the borough of your choice,
 except Manhattan. There can be
@@ -11918,7 +11919,7 @@ sometimes mandatory)
 1. ROLL THE DICE:
 On your turn, you can roll the dice
 up to three times.
-For your fi rst roll, you will roll the 6
+For your first roll, you will roll the 6
 black dice (the green dice are only
 used with particular cards).
 For your second and third rolls (both
@@ -11928,7 +11929,7 @@ to keep on a previous roll).
 
 2. RESOLVE THE DICE:
 The symbols on the dice after your
-fi nal roll indicate your actions for
+final roll indicate your actions for
 this turn.
 You can resolve the dice in whatever
 order you like, however all

@@ -3,26 +3,24 @@ Millennium Blades
 
 DESIGNED BY:
 D. Brad Talton Jr.
-Lead Illustrator
-Fabio Fontes
-Colorist
-Ana Garcia
-Supporting Staff
+Lead Illustrator: Fabio Fontes
+Colorist: Ana Garcia
+Supporting Staff:
 Joshua Van Laningham
 Michael Robles
 Christopher Smith
 Samuel Tapper
-Proofreading
-Bob Nolan , Joshua Van
+Proofreading:
+Bob Nolan, Joshua Van
 Laningham, Members of the
 Level 99 Games Playtesting Forums
-Playtesters
+Playtesters:
 Ty Arnold, Kier Arnold, Bo King,
 Trey Chambers, Peter Bemis, John Kirk,
 Chris Smith, Michael Robles, Joshua
 Van Laningham, Samuel Tapper, Reagan
 McClellan, JR Honeycutt
-Special Thanks
+Special Thanks:
 Arcane Wonders, CGC Games, Jasco Games,
 Kyy Games, Most Mondays Games, Black
 Box Games, Portal Games, Jared Roswurm,
@@ -37,10 +35,7 @@ Bryan Emborsky, Steven Durst, Alex Johnson,
 Jason Sherlock, Matthew Davison, Matt
 Stevens, Cory Jones, Tanya Seward
 ... and all of our Backers on Kickstarter!
-Millennium Blades, all characters,
-logos, card designs, graphic designs, and
-information in this rulebook are  2015 by
-Level 99 Games LLC
+
 In a world very much like our own,
 Millennium Blades is the world's most popular
 collectible card game. Continuously in print
@@ -84,17 +79,13 @@ desperation, discovery, hope, dread, and
 camaraderie.
 Most of all, I hope you have fun playing
 Millennium Blades!
-D. Brad Talton Jr.
-Millennium Blades Designer
-The Story so Far... Designer's Foreword
+
 "Millennium Blades is adapted
 from a game played thousands of
 years ago by Celtic Druid-Kings. Except
 that they dueled with real monsters
 and spells and used them to fight
 aliens from another dimension."
-Want to skip the Rulebook?
-Watch a Tutorial Video Online!
 
 COMPONENTS:
 - 5 Player Boards
@@ -130,13 +121,14 @@ Using whole stacks of Millennium
 Dollars brings to life the feeling of buying
 and selling expensive collectible trading
 cards on the aftermarket!
-Some assembly required
-Core Set 6 Starter Decks
-6 Pro Player Card Sets 2 Meta Sets
-9 Premium Sets
-11 Expansion Sets
-10 Promo Sets
-8 Master Sets
+- Core Set
+- 6 Starter Decks
+- 6 Pro Player Card Sets
+- 2 Meta Sets
+- 9 Premium Sets
+- 11 Expansion Sets
+- 10 Promo Sets
+- 8 Master Sets
 
 SETUP:
 1. Table Setup. Find a large table and set out
@@ -197,7 +189,7 @@ Tournament Round 2
 Deckbuilding Round 3 (if no Pre-Release)
 Tournament Round 3 (if no Pre-Release)
 
-Game Flow
+GAME FLOW:
 Starting the Game
 If you're new to Millennium Blades,
 we recommend starting out by playing a
@@ -282,7 +274,7 @@ Making a critical mis-play, forgetting to
 turn in a collection, or neglecting to include
 a key card in your deck are mistakes just like
 missing a shot in soccer or dropping a catch
-in baseballyou can't step back and correct
+in baseball you can't step back and correct
 these things. Instead, renew your focus,
 and resolve not to make the same mistake
 next round. The game has been built so
@@ -504,7 +496,7 @@ in your deck for the tournament, which are in
 your collection, to be returned to the box for
 points, and which cards are in your binder, to
 be saved for later use.
-Deckbuilding Actions
+DECKBUILDING ACTIONS:
 While the timer runs, players may begin
 taking any of the following actions, as quickly
 and as often as they wish:
@@ -638,29 +630,14 @@ card. He pays 5 Millennium Dollars to the
 bank, then adds the card to his Binder. Now
 he can flip it over and find out what it is!
 
-
 WHEN TIME RUNS OUT:
-After the first 7-minute timer expires, deal
-each player 6 more cards from the store deck,
-then reveal the top card of the Type Meta stack.
-Set another 7-minute timer. After this timer
-expires, the Aftermarket stops accepting new
-cards for sale (players may still buy cards,
-but they cannot sell them anymore), and set
-another 6-minute timer.
-After the final 6-minute timer expires, the
-Deckbuilding Phase ends, and the tournament
-begins.
+After the first 7-minute timer expires, deal each player 6 more cards from the store deck, then reveal the top card of the Type Meta stack.
+Set another 7-minute timer. After this timer expires, the Aftermarket stops accepting newcards for sale
+(players may still buy cards, but they cannot sell them anymore), and setanother 6-minute timer.
+After the final 6-minute timer expires, the Deckbuilding Phase ends, and the tournament begins.
 The whole thing looks sort of like this...
 Get new cards and cash!
-Reveal Elemental Meta
-7-Minute Timer
-Get more cards!
-Reveal Type Meta
-7-Minute Timer
-Last Call to sell cards
-6-Minute Timer
-End the Deckbuilding Phase
+
 Timers in Millennium Blades are relaxed.
 If you see a player scrambling to finish
 something they started, all players can agree
@@ -685,10 +662,12 @@ Scoring Collections
 When a collection is scored, place it in the
 box and award Victory Points based on the
 size of the collection.
+
 "This card press is the anvil upon
 which we will forge the blades
 for a new generation of heroes!"
 - Shamans of the Midwest CEO
+
 "What do I play? Ha! I don't play
 card games. I play markets. Stocks.
 Commodities. Where you may see an
@@ -709,10 +688,7 @@ to the player with fewer Victory Points.
 It's fine to stop the timer for a moment,
 if a player asks for a rules explanation
 or needs something clarified.
-Cards 2 3 4 5 6 7 8+
-Victory
-Points 2 4 7 9 12 16 21
-Collection Points
+
 "A card game is a form of personal
 expression. You take what you
 believe about the worldeverything
@@ -2680,13 +2656,12 @@ Vegetable (Grain) field, he must have
 a field (or an Improvement card) with
 Vegetables (Grain) growing on it. An
 empty, plowed field does not count.
-8
-5 Food
+- 5 Food
 (pre-printed)
-5 Clay
-3 Grain
+- 5 Clay
+- 3 Grain
 (pre-printed)
-4 Sheep
+- 4 Sheep
 Some Minor Improvements are Upgrade cards. Playing these cards not only costs goods
 but also requires the player to return an existing played or acquired Improvement. Upgraded
 Major Improvements are returned to the Major Improvements board and may be bought
@@ -10369,6 +10344,7 @@ Huge thanks to all the awesome supporters that backed this fun project! You guys
 
 
 
+
 GAME NAME:
 Blood Rage
 
@@ -11270,1169 +11246,9 @@ stats at legendary levels.
 Player with the most Glory wins.
 
 
-<<<<<<< HEAD
 
 GAME NAME:
-BETRAYAL AT HOUSE ON THE HILL
-
-=======
-1
-THE LAW OF
-Using This Book
-Root contains two rulebooks: this rules reference and the
-learning-to-play guide. If you like a conversational teaching
-style and many graphical examples, read the learning-to-play
-guide. If you like learning from strictly defined, formal rules
-in a concise reference style, read this book. The learning-toplay
-guide also contains instructions on using the winter map
-and playing with various faction mixes at all player counts.
-Third Printing (December 21st, 2018)
-2
-Text in small capitals defines key terms.
-Text in italics gives reminders and clarifications.
-Faction icons mark rules that are
-modified by the Faction Rules and Abilities
-section of the Marquise (M), Eyrie
-(E), Alliance (A), Vagabond (V), Cult
-(L), or Riverfolk (O).
-1. Golden Rules
-1.1 Rules Conflicts
-1.1.1 Precedence. If text on a card conflicts with text in
-the rules reference, the card takes precedence. If
-text in the learn-to-play guide conflicts with text
-in the rules reference, the rules reference takes
-precedence.
-1.1.2 Use of "Cannot." Any rule that uses the term
-"cannot" is absolute. It cannot be overridden by
-another rule unless explicitly instructed.
-1.1.3 Simultaneous Effects. If two game effects occur
-simultaneously, the player taking the current turn
-chooses their order, unless otherwise noted.
-1.2 Public and Private Information
-1.2.1 Hands. Players may only reveal cards in their
-hand if explicitly instructed, but the number of
-cards in their hand is public information. O
-1.2.2 Discard. The discard pile can be searched at any
-time.
-1.3 Negotiation and Deals
-1.3.1 Agreements. Players are free to discuss the game
-during play, but agreements between players are
-non-binding.
-1.3.2 Cards. Players may only give cards to each other
-if explicitly instructed.
-1.4 Game Structure
-Each player's turn consists of three phases: Birdsong,
-Daylight, and Evening. After a player completes all
-three phases, the next clockwise player begins their
-turn. Play continues until one player has won the game
-(3.1).
-2. Key Terms and Concepts
-2.1 Cards
-Each card has a suit: bird, fox, rabbit, or mouse. Most
-cards also have an effect you can craft (4.1).
-2.1.1 Birds Are Wild. You can always treat a bird card
-as a card of another suit, even if you must spend,
-take, or give multiple cards of the same suit. L
-I Forced Effects. When you are prompted to discard
-or give away fox, rabbit, or mouse cards,
-you must treat your bird cards as the prompted
-suit.
-II Reverse Substitution. If you are prompted to
-spend, discard, take, or give a bird card, you
-cannot substitute a card of another suit.
-2.1.2 Draw from Shared Deck. Whenever you are
-prompted to draw a card, take it from the shared
-deck. If the deck is empty, shuffle the discard pile
-to form a new deck.
-2.1.3 Spend and Discard to Shared Pile. Whenever
-you are prompted to discard or spend a card,
-place it in the shared discard pile unless it is a
-dominance card (3.3). L
-2.1.4 Ambush Cards. There are five ambush cards:
-one mouse, one rabbit, one fox, and two birds.
-You may spend an ambush card for its suit, but it
-does not have a crafted effect. You may also play
-one in battle to deal hits (4.3.1).
-2.1.5 Dominance Cards. There are four dominance
-cards matching the four suits. You may spend a
-dominance card for its suit, but it cannot be crafted.
-You may also play one to permanently change
-your victory condition (3.3).
-2.2 Clearings and Paths
-The map of the Woodland is composed of many
-clearings linked by paths.
-2.2.1 Adjacency. A clearing is adjacent to all other clearings
-linked to it by a path.
-2.2.2 Suit. Every clearing has a suit of mouse, rabbit,
-or fox.
-2.2.3 Slots. Each clearing has a number of slots, shown
-as white boxes. Whenever you place a building, it
-fills an open slot. You cannot place a building in a
-clearing with no open slots.
-2.2.4 Ruins. Slots marked with a small "R" begin the
-game filled with ruins. Ruins can only be removed
-by the Vagabond's Explore action (9.5.3).
-2.3 Rivers
-Many clearings are linked by rivers, which act as
-paths for only the Riverfolk Company. Rivers do not
-divide clearings or forests. O
-2.4 Forests
-Areas on the map enclosed by paths and clearings are
-called forests.
-2.4.1 Adjacency. A forest is adjacent to all clearings that
-touch it without crossing a path, and it is adjacent
-to all forests that are separated by only one path.
-2.5 Pieces
-Each faction has a set of pieces listed on the back of its
-faction board. Pieces are limited by the contents of the
-game. If you are prompted to place, take, or remove a
-piece but you cannot, you must place, take, or remove
-the maximum number possible.
-2.5.1 Warriors. If you are prompted to place a warrior,
-take it from your supply. If one of your warriors is
-removed, return it to your supply. ML
-3
-I Mouse, Rabbit, or Fox Dominance. You win
-the game immediately if you rule three clearings
-of the suit matching the activated dominance
-card at the start of your Birdsong.
-II Bird Dominance. You win the game immediately
-if you rule two clearings in opposite corners
-at the start of your Birdsong.
-3.3.2 Activated Cards. An activated dominance card
-does not count against your hand limit, and it
-cannot be removed from play. You cannot replace
-an activated dominance card with a different one.
-3.3.3 Spending for Suit. A dominance card can be
-spent for its suit. However, when it would be
-placed in the discard pile, instead place it near the
-map to show it is available to be taken. L
-3.3.4 Taking Available Cards. During your Daylight,
-you can take an available dominance card into
-your hand by spending a card of matching suit.
-4. Key Actions
-4.1 Craft
-You can craft most cards from your hand to gain an
-immediate or persistent effect.
-4.1.1 Cost. To craft a card, you must activate crafting
-pieces of the suits listed in the card's bottom-left
-corner. The suit of a crafting piece matches its
-clearing. Each crafting piece may be activated
-only once per turn. A three-color question mark
-denotes a crafting piece of any suit. VO
-4.1.2 Immediate Effects. When you craft an immediate
-effect, resolve its effect and then discard the card.
-If it shows an item, take the matching item from
-the supply and place it in the Crafted Items box
-on your faction board. If the card lists an item not
-in the supply, the card cannot be crafted. EV
-4.1.3 Persistent Effects. When you craft a persistent effect,
-place it in your play area. You may use the
-effect as described on the card.
-4.1.4 No Duplicates. You cannot craft a persistent effect
-if you have an identical persistent effect in
-your play area.
-4.2 Move
-When you move, you may take any number of your
-warriors or your pawn from one clearing and move
-them to one adjacent clearing.
-4.2.1 You Must Rule. To take a move, you must rule
-the origin clearing, destination clearing, or both.
-VO
-4.2.2 No Movement Limits. A given piece can be
-moved any number of times per turn. If you are
-prompted to take multiple moves, you may move
-the same or separate groups of warriors.
-2.5.2 Buildings. If you are prompted to place a building,
-take the leftmost building from its track on
-your faction board. If one of your buildings is removed,
-return it to the rightmost empty space of
-its track.
-2.5.3 Tokens. If you are prompted to place a token,
-take the leftmost token from its track, if any, or
-take it from your supply. If one of your tokens is
-removed, return it to the rightmost empty space
-of its track, if any, or to your supply. MO
-2.5.4 The Vagabond Pawn. The Vagabond pawn cannot
-be removed from the map.
-2.5.5 Items. If you are prompted to take an item, take
-it from the shared supply on the map and place it
-in the Crafted Items box on your faction board. If
-you are prompted to remove an item, return it to
-the box. V
-2.6 Play Area
-Your play area is the area around your faction board.
-2.7 Enemy
-An enemy is any other faction not in a coalition with
-you (9.2.8).
-2.8 Ruler
-The ruler of a clearing is the player with the most total
-warriors and buildings in that clearing. (Tokens and
-pawns do not contribute to rule.) If there is a tie between
-players in a clearing, no one there is the ruler. EVL
-3. Victory
-3.1 How to Win
-The first player to reach 30 victory points immediately
-wins the game. If multiple players reach 30 or more
-victory points simultaneously, the player taking the
-current turn wins.
-3.2 Scoring Victory Points
-Each faction has a unique way to score victory points,
-but any faction can score victory points as follows.
-3.2.1 Removing Buildings and Tokens. Whenever you
-remove an enemy's building or token, you score
-one victory point.
-3.2.2 Crafting Items. Whenever you craft an item (4.1),
-you score the victory points listed on the card. E
-3.3 Dominance Cards
-The deck holds four dominance cards, which can be
-played to win the game without reaching 30 victory
-points.
-3.3.1 Activating. During your Daylight, if you have at
-least 10 victory points, you may activate a dominance
-card by placing it in your play area. Remove
-your score marker from the score track. You
-can no longer score victory points. V
-4
-5. Setup
-5.1 Standard Setup Procedure
-5.1.1 Step 1: Assign Factions and Starting Player. Assign
-one faction to each player using any method.
-The viable factions at each player count are listed
-in the learning-to-play guide (page 22). Determine
-the starting player and seating order randomly.
-Each player takes their chosen faction board and
-all pieces, as listed on the back of the faction board.
-5.1.2 Step 2: Place Score Markers. Each player places
-their score marker on "0" on the score track.
-5.1.3 Step 3: Draw Starting Hands. If you are playing
-with two players, remove all four dominance cards
-from the deck. Shuffle the deck. Each player draws
-three cards.
-5.1.4 Step 4: Place Ruins. Place a ruin in each slot on the
-map marked with an "R" (four in total).
-5.1.5 Step 5: Form Item Supply. Place these items on the
-matching spaces of the item supply near the top of
-the map: 2 M, 2 B, 1 C, 1 H, 2 S, 2 T, 2 X.
-5.1.6 Step 6: Gather Other Pieces. Hand out the 16 faction
-overview cards as desired, and place the two
-custom dice near the map.
-5.1.7 Step 7: Set Up Factions. In setup order (A, B, C,
-etc.), each player follows their faction's setup instructions,
-listed in their rules section and on the
-back of their faction board.
-6. Marquise de Cat
-6.1 Overview
-The Marquise de Cat occupies the Woodland and wants
-to turn it into an industrial and military powerhouse.
-Each time the Marquise builds one of her buildingsa
-workshop, sawmill, or recruitershe scores victory
-points. The more of the same building she has on the
-map, the more points she scores. However, to fuel ongoing
-construction, the Marquise must maintain and protect
-a strong, interconnected economy of wood.
-6.2 Faction Rules and Abilities
-6.2.1 Crafting. The Marquise crafts during Daylight by
-activating workshops.
-6.2.2 The Keep. Only the Marquise can place pieces
-in the clearing with the keep token. (Pieces may
-be moved into this clearing.) If the keep token is removed,
-return it to the box.
-6.2.3 Field Hospitals. Whenever any number of Marquise
-warriors are removed from a clearing, the
-Marquise may spend a card matching that clearing
-to place those warriors in the clearing with the keep
-token.
-4.3 Battle
-When you battle, choose a clearing where you have
-warriors or your pawn as the clearing of battle.
-You are the attacker. Choose another player in the
-clearing of battle to be the defender.
-4.3.1 Step 1: Defender May Ambush. The defender
-may play one ambush card matching the clearing
-of battle. If the ambush is not foiled, the
-defender deals two hits immediately. Then, the
-defender discards the ambush card. If no attacking
-warriors remain, end the battle immediately.
-I Foil Ambush. After the defender plays an
-ambush card, the attacker may cancel its effect
-by also playing an ambush card matching
-the clearing of the battle. (The defender
-still discards their ambush card.)
-4.3.2 Step 2: Roll Dice and Add Extra Hits. Roll
-both dice. The attacker will deal hits equal to
-the higher roll, and the defender will deal hits
-equal to the lower roll. If the rolls are equal, attacker
-and defender will deal the same number
-of hits. (The use of "will" here reflects that hits are not
-dealt until step 3.) A
-I Maximum Rolled Hits. The maximum hits
-you can deal from rolling equals the number
-of your warriors in the clearing of battle,
-whether you are the attacker or defender. V
-II Extra Hits. After counting hits from rolling,
-the attacker and defender can add extra
-hits by using special abilities or other effects
-in their play areas. Extra hits are not limited
-by the number of warriors in the clearing of
-battle.
-III Defenseless. If the defender has no warriors
-in the clearing of battle, the attacker will
-deal an extra hit. V
-4.3.3 Step 3: Deal Hits. Attacker and defender deal
-hits simultaneously. Each hit you deal removes
-one piece. The player taking hits chooses which
-of their pieces are removed from the clearing
-of battle, but must choose to remove all their
-warriors there before they choose to remove any
-of their buildings or tokens there in any order.
-(You score one victory point per enemy building or
-token removed.)
-5
-7. Eyrie Dynasties
-7.1 Overview
-The Eyrie Dynasties wish to restore their oncedignified
-kind to their former glory in the Woodland
-by retaking control of the forest clearings. During
-their Evening, the Eyrie score victory points based on
-the number of roosts on the map. The greater their
-presence in the Woodland, the greater their gains.
-However, the Eyrie are bound by their Decree, an ever-
-increasing set of mandated actions promised by their
-leader. Each turn, they must take all of the actions on
-their Decree, or else fall into turmoil.
-7.2 Faction Rules and Abilities
-7.2.1 Crafting. The Eyrie craft before resolving the Decree
-during Daylight by activating roosts.
-7.2.2 Lords of the Forest. The Eyrie rule a clearing
-when tied for most combined warriors and buildings
-there. They do not rule empty clearings. L
-7.2.3 Disdain for Trade. Whenever the Eyrie craft an
-item, they ignore the listed victory points and instead
-score only one victory point.
-7.3 Faction Setup
-7.3.1 Step 1: Gather Warriors. Form a supply of 20
-warriors near you.
-7.3.2 Step 2: Place Roost and Starting Warriors. Place
-1 roost and 6 warriors in the corner clearing diagonally
-opposite from the clearing with the keep
-token. If the Marquise is not playing, place those
-pieces in the corner clearing of your choice.
-7.3.3 Step 3: Choose Leader. Choose 1 of the 4 Eyrie
-leader cards and place it in your Leader Card slot.
-Stack the remaining leaders face up near you.
-7.3.4 Step 4: Tuck Viziers. Tuck your 2 Loyal Vizier
-cards, showing their suit, into the Decree columns
-above your faction board as listed on your leader.
-7.3.5 Step 5: Fill Roosts Track. Place your 6 remaining
-roosts on your Roosts track, filling all its spaces
-except the leftmost.
-7.4 Birdsong
-Your Birdsong has three steps in the following order.
-7.4.1 Emergency Orders. If you have no cards in your
-hand, draw one card.
-7.4.2 Add to the Decree. You must add one or two cards
-to the Decree, but only one card added may be a
-bird card. You may play each card to any column,
-and each column can hold any number of cards.
-7.4.3 A New Roost. If you have no roosts on the map,
-place a roost and three warriors in a clearing with
-the fewest warriors where all those pieces can be
-placed.
-6.3 Faction Setup
-6.3.1 Step 1: Gather Warriors and Wood. Form supplies
-of 25 warriors and 8 wood tokens near you.
-6.3.2 Step 2: Place Keep. Place the keep token in the
-corner clearing of your choice.
-6.3.3 Step 3: Garrison. Place a warrior in each clearing
-except the clearing in the diagonally opposite corner
-from the clearing with the keep token.
-6.3.4 Step 4: Place Starting Buildings. Place 1 sawmill,
-1 workshop, and 1 recruiter. You may place
-them among the clearing with the keep token and
-any adjacent clearings, in any combination.
-6.3.5 Step 5: Fill Buildings Tracks. Place your remaining
-5 sawmills, 5 workshops, and 5 recruiters
-on your matching Buildings tracks, filling every
-space except the leftmost space of each track.
-6.4 Birdsong
-Place one wood token at each sawmill.
-6.5 Daylight
-First, you may activate workshops to craft cards from
-your hand. Then, you may take up to three actions in
-any order and combination. After taking three actions,
-you may take extra actions by spending one bird card
-per extra action.
-6.5.1 Battle. Initiate a battle.
-6.5.2 March. Take two moves.
-6.5.3 Recruit. Place one warrior at each recruiter. You
-may take this action only once per turn.
-6.5.4 Build. Place a building.
-I Choose Building. Choose whether you want
-to place a sawmill, workshop, or recruiter. Find
-the leftmost building of that type remaining on
-your faction board. Note that building's cost,
-listed at the top of its column.
-II Choose Clearing and Pay Wood. Choose any
-clearing you rule. Remove wood tokens equal
-in number to the building's cost from the chosen
-clearing, any adjacent clearings you rule,
-or any clearings connected to the chosen clearing
-you rule through any number of clearings
-you rule.
-III Place Building and Score. Place the chosen
-building on the chosen clearing, and score the
-victory points revealed on the space under the
-building removed from your faction board.
-6.5.5 Overwork. Spend a card matching the clearing of
-a sawmill, and place a wood token there.
-6.6 Evening
-Draw one card, plus one card per uncovered draw bonus.
-Then, if you have more than five cards in your
-hand, discard cards of your choice until you have five.
-6
-7.8.4 Despot. Loyal Viziers begin on Move and Build.
-Whenever you remove at least one enemy building
-or token in battle, you score one victory point.
-8. Woodland Alliance
-8.1 Overview
-The Woodland Alliance works to gain the sympathy of
-the various creatures of the Woodland who are dissatisfied
-with their present condition. Each time the Alliance
-places a sympathy token, they may score victory
-points. The more sympathy on the map they have, the
-more victory points they score. Gaining the sympathy
-of the people requires supporters. These supporters
-can also be put toward violent ends, inciting outright
-rebellion across the forest. When a revolt erupts, the
-Alliance will establish a base. Bases allow the Alliance
-to train officers, increasing their military flexibility.
-8.2 Faction Rules and Abilities
-8.2.1 Crafting. The Alliance crafts during Daylight by
-activating sympathy tokens.
-8.2.2 Guerrilla War. As defender in battle, the Alliance
-will deal hits equal to the higher roll, and the attacker
-will deal hits equal to the lower roll.
-8.2.3 The Supporters Stack. To take various actions,
-the Alliance spends supporters, which are cards
-on their Supporters stack. Supporters can only be
-spent for their suit and do not count against the
-Alliance's hand size. Supporters are face down,
-but the Alliance may inspect them at any time.
-I Capacity. If the Alliance has no bases on the
-map, the Supporters stack can only hold up
-to five cards. If the Alliance would gain a supporter
-but the stack cannot hold it, that card
-is discarded. If any bases are on the map, the
-Supporters stack can hold unlimited cards.
-8.2.4 Removing Bases. Whenever a base is removed,
-the Alliance must discard all supporters of matching
-suit (including birds), and remove half of their
-officers, rounded up. If the Alliance has no more
-bases on the map and has more than five cards in
-their Supporters stack, they must discard down to
-five.
-8.2.5 Sympathy Tokens. The Alliance has 10 sympathy
-tokens.
-I Placement Limits. A clearing can hold only
-one sympathy token.
-II Terms. A sympathetic clearing is one with a
-sympathy token. An unsympathetic clearing
-is one without a sympathy token.
-8.2.6 Outrage. Whenever another player removes a
-sympathy token or moves any warriors into a sympathetic
-clearing, they must add one card matching
-the affected clearing from their hand to the
-Supporters stack. If they have no matching cards
-(including no birds), they must show their hand to
-the Alliance, and then the Alliance draws a card
-from the deck and adds it to the Supporters stack.
-7.5 Daylight
-Your Daylight has two steps in the following order.
-7.5.1 Craft. You may activate roosts to craft cards from
-your hand.
-7.5.2 Resolve the Decree. You must resolve the Decree,
-starting with the leftmost column and moving
-right. In each column, you must resolve all of its
-cards, but in any order. For each card, you must
-take the action listed for its column, as follows. If
-you cannot fully take an action, you immediately
-fall into turmoil (7.7).
-I Recruit. Place a warrior in any clearing with a
-roost whose suit matches the card suit.
-II Move. Move at least one warrior from any
-clearing whose suit matches the card suit.
-III Battle. Initiate a battle in any clearing whose
-suit matches the card suit.
-IV Build. Place a roost in any clearing you rule
-whose suit matches the card suit and which has
-no roost.
-7.6 Evening
-Your Evening has two steps in the following order.
-7.6.1 Score Points. Score the victory points listed on
-the rightmost empty space of your Roosts track.
-7.6.2 Draw and Discard. Draw one card, plus one card
-per uncovered draw bonus. Then, if you have
-more than five cards in your hand, discard cards
-of your choice until you have five.
-7.7 Turmoil
-If you cannot fully take an action in the Decree (7.5.2)
-for any reason, you fall into turmoil, as follows.
-7.7.1 Step 1: Humiliate. Lose one victory point per
-bird card (including Loyal Viziers) on the Decree.
-7.7.2 Step 2: Purge. Discard all of the cards on the Decree
-except your Loyal Viziers.
-7.7.3 Step 3: Depose. Flip your current leader face
-down and set it aside, choose a new leader from
-those face up, and place on your faction board.
-Tuck your Loyal Viziers into the Decree spaces
-listed on your new leader.
-I A New Clutch. If you must choose a new leader
-but none are face up, flip them all face up.
-7.7.4 Step 4: Rest. End Daylight and begin Evening.
-7.8 Leaders Reference
-The Eyrie have four leader cards, as follows.
-7.8.1 Builder. Loyal Viziers begin on Recruit and Move.
-Whenever you craft, you ignore your Disdain for
-Trade special ability (7.2.3).
-7.8.2 Charismatic. Loyal Viziers begin on Recruit and
-Battle. Whenever you take a Recruit action, you
-must place two warriors instead of one.
-7.8.3 Commander. Loyal Viziers begin on Move and
-Battle. In battle as attacker, you deal an extra hit.
-7
-8.6 Evening
-This phase has two steps in the following order.
-8.6.1 Military Operations. You may take actions, as
-follows, up to your number of officers, in any order
-and combination.
-I Move. Take one move.
-II Battle. Initiate a battle.
-III Recruit. Place a warrior in any clearing with
-a base.
-IV Organize. Remove one of your warriors from
-an unsympathetic clearing, place a sympathy
-token there, and score the victory points listed
-on the space revealed on your faction board.
-8.6.2 Income. Draw one card, plus one card per uncovered
-draw bonus. Then, if you have more than five
-cards in your hand, discard cards of your choice
-until you have five.
-9. Vagabond
-9.1 Overview
-The Vagabond plays all sides of the conflict while going
-on quests to increase his renown throughout the wood.
-Each time the Vagabond improves his relationship
-with another faction, or removes a warrior belonging to
-a faction hostile toward him, he scores victory points.
-He can also complete quests to score victory points. To
-move and act effectively the Vagabond must manage his
-pack of items, expanding his selection by exploring the
-forest ruins and providing aid to other factions.
-9.2 Faction Rules and Abilities
-9.2.1 Crafting. The Vagabond exhausts H to craft. All
-of his H match the suit of his current clearing. If
-the Vagabond crafts an item, he may immediately
-take it, face up.
-9.2.2 Lone Wanderer. The Vagabond pawn is not a warrior,
-so he cannot rule a clearing or stop another
-player from ruling one. The Vagabond pawn cannot
-be removed from the map.
-9.2.3 Nimble. The Vagabond can move regardless of
-who rules his origin or destination clearing (4.2.1).
-9.2.4 Defenseless. In battle, the Vagabond is defenseless
-(4.3.2.III) if he has no undamaged S.
-9.2.5 Items. The Vagabond's capabilities depend on
-the items he acquires. Items on the Vagabond's
-faction board can be face up or face down. The
-Vagabond exhausts undamaged items, flipping
-them face down, to take many actions.
-I Item Tracks. When gained, T, X, and B are
-placed face up on their matching tracks. Each
-track can only hold three matching items.
-II The Satchel. When gained, M, S, C, F, and
-H are placed face up in the Vagabond's Satchel.
-8.3 Faction Setup
-8.3.1 Step 1: Gather Warriors. Form a supply of 10
-warriors near you.
-8.3.2 Step 2: Place Bases. Place your 3 bases on the
-matching spaces in your Bases box.
-8.3.3 Step 3: Fill Sympathy Track. Place your 10 sympathy
-tokens on your Sympathy track.
-8.3.4 Step 4: Gain Supporters. Draw 3 cards and place
-them face down on your Supporters stack.
-8.4 Birdsong
-Your Birdsong has two steps in the following order.
-8.4.1 Revolt. Remove enemy pieces and place a base
-and warriors, as follows. You may revolt any number
-of times.
-I Choose Clearing. A sympathetic clearing
-matching an unbuilt base.
-II Spend Supporters. Spend two supporters
-matching the suit of the chosen clearing.
-III Resolve Effect. Remove all enemy pieces in the
-chosen clearing. Then, place the base matching
-the clearing there, and place warriors there
-equal to the number of sympathetic clearings
-matching the base's suit. Finally, place one
-warrior in the Officers box. (Remember to score
-one victory point per token and building removed.)
-8.4.2 Spread Sympathy. Place a sympathy token, as follows.
-You may spread sympathy any number of
-times.
-I Choose Clearing. An unsympathetic clearing
-adjacent to a sympathetic clearing. If there are
-no sympathetic clearings, you may choose any
-clearing.
-II Spend Supporters. Spend supporters matching
-the suit of the chosen clearing. The number
-of supporters that must be spent is listed above
-the sympathy token.
-a Martial Law. You must spend another
-matching supporter if the target clearing has
-at least three warriors belonging to another
-player.
-III Resolve Effect. Place a sympathy token in the
-chosen clearing. Score the victory points listed
-on the space revealed on your faction board.
-8.5 Daylight
-You may take the following actions in any order and
-combination.
-8.5.1 Craft. You may activate sympathy tokens to craft
-a card from your hand.
-8.5.2 Mobilize. Add a card from your hand to the Supporters
-stack.
-8.5.3 Train. Spend a card whose suit matches a built
-base to place a warrior in the Officers box.
-8
-Allied warriors as your own if that Ally is the
-defender.
-d Taking Hits with Ally. In a battle where you
-treat Allied warriors as your own, you can
-take hits by removing Allied warriors. However,
-if you take more hits by removing Allied
-warriors than by damaging items during
-the same battle, that Allied faction becomes
-Hostile (9.2.9.III). This rule overrides the
-condition for becoming Hostile in 9.2.9.III.
-e Outrage with Ally. If you cause Outrage
-(8.2.6) by moving or battling with Allied
-warriors, you give the matching card.
-III Hostile Status. If you ever remove a warrior of
-a non-Hostile faction, their relationship marker
-immediately moves to the Hostile box. This
-faction is now Hostile.
-a Infamy. Whenever you remove a piece of a
-Hostile faction in battle during your turn,
-score one victory point. (Add this to points
-scored for enemy buildings and tokens. Do not
-score a point for removing the warrior that made
-the faction Hostile.)
-b Moving into Hostile Clearings. You must
-exhaust an extra M to move into a clearing
-with any warriors of any Hostile factions.
-c Aiding Hostile Factions. You cannot move
-a relationship marker out of the Hostile box
-by using Aid, but you can still Aid a Hostile
-faction to take crafted items.
-d Coalition with Hostile Faction. You can
-form a coalition (9.2.8) with a Hostile faction.
-If you do, move their relationship
-marker to the Indifferent space.
-9.3 Faction Setup
-9.3.1 Step 1: Choose Character. Choose a character
-card and place it in your Character Card slot.
-9.3.2 Step 2: Place Pawn. Place your Vagabond pawn
-in any forest.
-9.3.3 Step 3: Get Quests. Shuffle your quest deck, draw
-3 quest cards, and place them face up near you.
-9.3.4 Step 4: Populate Ruins. Take the 4 ruins from the
-map, and take the B, M, H, and S items marked
-with an "R." Place one beneath each ruin and then
-shuffle each ruin stack. Then, return each stack to
-an empty ruin slot on the map.
-9.3.5 Step 5: Take Starting Items. Take the items
-marked with "S" listed on your character card.
-Place any listed T, X, and B items face up on the
-matching tracks of your faction board. Place all
-other listed items face up in your Satchel. Return
-any remaining "S" items to the box.
-9.3.6 Step 6: Set Relationships. Take a relationship
-marker for each non-Vagabond faction and place
-them all on the Indifferent space of your Relationships
-chart.
-III Moving Items. The Vagabond can freely move
-face-up, undamaged T, X, and B between
-their tracks and the Satchel.
-9.2.6 Maximum Rolled Hits. In battle, the Vagabond's
-maximum rolled hits (4.2.2.I) equals his undamaged
-S, face up or face down, in his Satchel.
-9.2.7 Taking Hits. Whenever the Vagabond takes a hit
-(4.3.3), he must damage one undamaged item,
-moving it to his Damaged box. If no undamaged
-items remain to damage, the Vagabond ignores
-any remaining hits.
-9.2.8 Dominance Cards and Coalitions. In games
-with four or more players, the Vagabond can
-activate a dominance card to form a coalition
-with the player with the fewest victory points
-other than himself, placing his score marker on
-the chosen player's faction board. If there is a
-tie for fewest, he chooses one tied player. If the
-chosen player wins the game, the Vagabond also
-wins. (The Vagabond no longer scores victory points.
-He cannot form a coalition with a player who has
-already activated a dominance card.)
-9.2.9 Relationships. Your faction board shows a Relationships
-chart, which has four spaces on the
-Allied track and one Hostile box. It holds a relationship
-marker from each non-Vagabond faction
-in play.
-I Improving Relationships. You can improve a
-relationship with a non-Hostile faction by taking
-the Aid action.
-a Cost. Aid a non-Hostile faction the number
-of times listed between their current Allied
-space and their next Allied space during the
-same turn. (A given Aid action counts toward
-only one improvement in relationship.)
-b Effect. Advance that faction's relationship
-marker one space right on the track. Score
-the victory points listed in the new space.
-II Allied Status. If a faction's relationship marker
-reaches the final space on the Allied track,
-you are now trusted by the warriors of that faction.
-This faction is now Allied.
-a Aiding Ally. Each time you Aid an Allied
-faction, score two victory points.
-b Moving with Ally. Whenever you move
-during Daylight, you may move warriors
-from one Allied faction with you from your
-origin clearing to your destination clearing.
-Allied warriors follow the normal movement
-rules of their faction and do not gain the
-benefit of your Nimble special ability.
-c Attacking with Ally. Whenever you initiate
-a battle, you may treat Allied warriors of one
-faction in the clearing of battle as your own.
-The maximum hits you can roll equals the
-number of that Ally's warriors there plus
-your total undamaged S. You cannot treat
-9
-9.6 Evening
-Your Evening has four steps, as follows.
-9.6.1 An Evening's Rest. If you are in a forest, move
-all items in your Damaged box to your Satchel or
-their matching track, and flip them face up.
-9.6.2 Draw Cards. Draw one card, plus one card per X
-face up on the matching track.
-9.6.3 Discard Cards. If you have more than five cards
-in your hand, discard cards of your choice until
-you have five.
-9.6.4 Check Item Capacity. If you have more items total
-in your Satchel and Damaged box than your
-item limitsix plus two per B face up on the
-matching trackremove items from your Satchel
-and Damaged box until you have items equal to
-your item limit, and return them to the box.
-9.7 Character Reference
-9.7.1 Thief. Start with M, F, T, and S.
-I Special Action: Steal. Take a random card
-from a player in your clearing.
-9.7.2 Tinker. Start with M, F, B, and H.
-I Special Action: Day Labor. Take a card from
-the discard pile whose suit matches your clearing.
-(You can always take a bird card.)
-9.7.3 Ranger. Start with M, F, C, and S.
-I Special Action: Hideout. Repair three items,
-then immediately end Daylight.
-9.8 Playing with Two Vagabonds
-If you have The Riverfolk Expansion, you can play a
-game with two Vagabonds by following these rules.
-9.8.1 Add Extra Item to Ruins. During setup, use both
-sets of "R" items and place two "R" items in each
-ruin slot. When a Vagabond explores a ruin with
-two items, he may look at them and take one of
-his choice. (By taking two Explore actions, he could
-take both items from one ruin.) He cannot take an
-"R" item that matches an "R" item already on his
-faction board. If he explores but does not take an
-item, he does not score a victory point, but the
-torch is still exhausted.
-9.8.2 Randomize Setup Order. Randomly determine
-which Vagabond sets up first.
-9.8.3 Share Quests. Either Vagabond may complete
-any of the three face-up quests. Do not add extra
-quest cards during setup.
-9.4 Birdsong
-Your Birdsong has two steps in the following order.
-9.4.1 Refresh. Flip two exhausted items face up for
-each T face up at the start of your Birdsong. Then
-flip up three more exhausted items.
-9.4.2 Slip. You may move into an adjacent clearing or
-forest without exhausting any M, even for moving
-into a Hostile clearing (9.2.9.IIIb).
-9.5 Daylight
-You can exhaust items to take the following actions, in
-any order and combination. If you exhaust a X, T, or
-B on a track, move it to the Satchel.
-9.5.1 Move. Exhaust one M to move, plus one M if the
-destination clearing has any Hostile warriors. You
-may move with Allied warriors (9.2.9.IIb). You
-cannot move into a forest. If in a forest, you may
-only move into an adjacent clearing.
-9.5.2 Battle. Exhaust one S to initiate a battle. You
-may battle with Allied warriors (9.2.9.IIc). (Check
-your relationship with the defender.)
-9.5.3 Explore. Exhaust one F to take one item under
-a ruin in your clearing, reveal it, and place it face
-up in your Satchel or on its matching track. Then,
-you score one victory point. If you remove the last
-item from a ruin, remove the ruin.
-9.5.4 Aid. Exhaust any one item, and give one of your
-cards matching your clearing to any player with
-any pieces there (even Hostile). Then, you may take
-one item, if any, from that player's Crafted Items
-box, and place it face up in your Satchel or on
-its matching track. (Check your relationship with that
-player.)
-9.5.5 Quest. Choose a quest whose suit matches your
-clearing, and exhaust the two items listed on
-the quest to complete it. Place the quest in your
-play area, and then draw a new quest and place
-it near the map. You may score one victory point
-per quest of matching suit you have completed,
-including this one, or draw two cards from the
-deck.
-9.5.6 Strike. Exhaust one C to remove a warrior from
-your clearing. If a player has no warriors there,
-you may instead remove one building or token of
-that player. (Check your relationship with that player.)
-9.5.7 Repair. Exhaust one H to move one damaged
-item to the Satchel (if M, H, S, C, or F) or to its
-matching track (if face up X, T, B), keeping the
-item on its current side.
-9.5.8 Craft. Play a card from your hand, and exhaust
-the H of listed suit to craft it. All of your H match
-the suit of your clearing. If a card requires multiple
-of one suit to craft, you must exhaust the listed
-number of H. If you craft an item, you may
-place it face up in your Satchel or on the matching
-track.
-9.5.9 Special Action. Exhaust one F to take the action
-listed on your character card.
-10
-10.4 Birdsong
-Your Birdsong has three steps in the following order.
-10.4.1 Adjust Outcast. Look at the cards in the Lost
-Souls pile, ignoring birds. The suit with the most
-cards becomes the new Outcastmove the outcast
-marker, showing its Outcast side, to that suit.
-If that suit was already the Outcast, flip the marker
-to Hated. If no one suit had the most cards,
-the marker stays on its current suit and, if it is not
-Hated, flips to its Hated side.
-10.4.2 Discard Lost Souls. Discard all of the cards in
-the Lost Souls pile to the discard pile. (Dominance
-cards become available to take.)
-10.4.3 Perform Conspiracies. You can spend acolytes,
-returning them to your supply, to perform conspiracies
-in clearings matching the Outcast, in any
-order and combination, as follows. If the Outcast
-is Hated, the conspiracy costs one fewer acolyte.
-If you perform Convert or Sanctify, you must
-complete the conspiracy.
-I Crusade. Spend two acolytes to initiate a battle
-in an Outcast clearing or to move at least
-one warrior from an Outcast clearing and then,
-if you wish, initiate a battle in the destination
-clearing.
-II Convert. Spend two acolytes to remove an enemy
-warrior from an Outcast clearing and then
-place one warrior there.
-III Sanctify. Spend three acolytes to remove an
-enemy building from an Outcast clearing and
-then place a garden of matching suit there.
-10.5 Daylight
-You may reveal any number of cards from your hand,
-placing them face up in front of you, and perform one
-ritual per card revealed, in any order and combination
-as follows. Revealed cards cannot be used for any other
-purposes during Daylight.
-10.5.1 Build. In a clearing you rule matching the revealed
-card, place a matching garden.
-10.5.2 Recruit. In a clearing matching the revealed card,
-place a warrior.
-10.5.3 Score. Spend the same card you reveal (placing in
-Lost Souls) to score the victory points listed above
-the rightmost empty Gardens space of the suit
-matching the revealed card. You may perform this
-only once per turn per suit.
-10.5.4 Sacrifice. Place a warrior in the Acolytes box. To
-perform this, you must reveal a bird card.
-10.6 Evening
-Your Evening has three steps in the following order.
-10.6.1 Return Cards. Return all cards that you revealed
-to your hand.
-10.6.2 Craft. You may craft by activating gardens matching
-the Outcast suit.
-10.6.3 Draw and Discard. Draw one card, plus one card
-per uncovered draw bonus. Then, if you have
-more than five cards in your hand, discard cards
-of your choice until you have five.
-These final two sections refer to factions
-available in The Riverfolk Expansion.
-10. Lizard Cult
-10.1 Overview
-Catering to those creatures who have been discarded
-by the other factions, the Lizard Cult seeks to overwhelm
-its foes through sheer force of will. The Cult
-relies on word of mouth and beak to spread its gospel,
-and new enclaves can spring up anywhere on the map.
-Where the Cult rule clearings, they can build gardens,
-which will further radicalize the animals that live
-there. While other factions spend cards to achieve their
-aims, the Cult acts chiefly by revealing cards and gradually
-drafting the ideal set of followers. Unless used
-for scoring, these cards are not spent and are returned
-to the Cult's hand during Evening. However, this gentler
-approach makes movement and combat operations
-difficult, so these actions can only be undertaken by
-the most radicalized members of the Cult.
-10.2 Faction Rules and Abilities
-10.2.1 Crafting. The Cult crafts during Evening by activating
-gardens matching the Outcast suit (10.4.1).
-10.2.2 Hatred of Birds. Bird cards are not wild for Cult
-rituals.
-10.2.3 Revenge. Whenever a Cult warrior is removed
-while defending in battle, it is placed in the Acolytes
-box instead of the Cult's supply.
-10.2.4 Pilgrims. The Cult rules any clearings where they
-have any gardens. This overrides the Eyrie's Lords
-of the Forest (7.2.2).
-10.2.5 Fear of the Faithful. Whenever a garden is removed,
-the Cult must discard a random card.
-10.2.6 The Lost Souls Pile. Whenever any card is spent
-or discarded (even a dominance card), place it in
-the Lost Souls pile instead of the discard pile. The
-Lost Souls pile can be inspected by any player at
-any time.
-10.3 Faction Setup
-10.3.1 Step 1: Gather Warriors. Form a supply of 25
-warriors near you.
-10.3.2 Step 2: Place Warriors. In the corner clearing opposite
-from the Marquise's keep or Eyrie's starting
-roost, place 4 warriors and 1 garden matching
-the clearing; if both the Marquise and Eyrie are
-in play, choose one of the two other corners. Then
-place one warrior in each adjacent clearing.
-10.3.3 Step 3: Choose Outcast. Place the outcast marker
-on any suit space in the Outcast box. The suit of
-this space is called the Outcast.
-10.3.4 Step 4: Fill Gardens Tracks. Place your 14 remaining
-gardens on the matching spaces of your
-Gardens tracks from right to left.
-11
-II Riverboats. The buyer treats rivers as paths
-until the end of their turn.
-III Mercenaries. During Daylight and Evening of
-this turn, the buyer treats Riverfolk warriors as
-their own only for rule and for battle against
-factions other than the Riverfolk. (The buyer
-cannot move them, count them toward dominance,
-or remove them except by taking hits.)
-a Taking Hits. The buyer must split hits taken
-evenly between their pieces and Riverfolk
-warriors, with the buyer taking odd hits.
-b Vagabond Mercenaries. The Vagabond cannot
-buy Riverfolk mercenaries.
-11.3 Faction Setup
-11.3.1 Step 1: Gather Warriors. Form a supply of 15
-warriors near you.
-11.3.2 Step 2: Place Warriors. Place four warriors on
-any clearing or clearings connected to the river.
-11.3.3 Step 3: Fill Trade Posts Tracks. Place the 9 trade
-posts on the matching spaces of your Trade Posts
-tracks.
-11.3.4 Step 4: Gain Starting Funds. Place three warriors
-in the Payments box.
-11.3.5 Step 5: Set Starting Prices. Place a service marker
-on one space of each Services track.
-11.4 Birdsong
-Your Birdsong has three steps in the following order.
-11.4.1 Protectionism. If the Payments box is empty,
-place two warriors in it.
-11.4.2 Score Dividends. If there are any trade posts on
-the map, score one victory point per two funds.
-(You do not score points for warriors in the Payments or
-Committed boxes.)
-11.4.3 Gather Funds. Move all warriors on your faction
-board to the Funds box.
-11.5 Daylight
-You can commit and spend funds to take actions, as
-follows, in any order and combination. When you
-commit a fund, move the warrior to the Committed
-box. When you spend a fund, return the warrior to its
-owner's supply.
-11.5.1 Move. Commit one fund to take a move.
-11.5.2 Battle. Commit one fund to initiate a battle.
-11.5.3 Craft. Commit funds to craft a card from your
-hand. Instead of moving these warriors to the
-Committed box, you must place them on empty
-spaces of the Trade Posts tracks matching the
-suits listed on the crafting cost.
-I Export. You may ignore the listed benefit of
-crafting a card, discarding it, to place one of
-your warriors in the Payments box.
-11.5.4 Draw. Commit one fund to draw a card.
-11. Riverfolk Company
-11.1 Overview
-When news arrived that the Woodland on the shore of
-the great lake was descending into all-out war, the Riverfolk
-Company quickly dispatched its officers to set
-up shop. As other factions purchase services, the Riverfolk
-will be able to further entrench their commercial
-interests by building trade posts across the forest. The
-construction of these posts is a viable way to score
-victory points, but so too is the raw accumulation of
-wealth. However, a big treasury makes for an easy target,
-and so the Riverfolk must balance protecting their
-growing treasury with expanding of their operations
-into the more dangerous clearings of the forest.
-11.2 Faction Rules and Abilities
-11.2.1 Crafting. The Riverfolk craft during Daylight by
-committing funds to empty spaces on the Trade
-Posts tracks.
-11.2.2 Swimmers. The Riverfolk treat rivers as paths and
-may move along rivers regardless of who rules
-their origin or destination clearing. (They can still
-move using paths.)
-11.2.3 Public Hand. The Riverfolk place their hand face
-up above their faction board. If another player
-would take a random card from the Riverfolk's
-hand, the cards are flipped face down, shuffled,
-drawn from, and then flipped face up.
-11.2.4 Funds. To take many actions, the Riverfolk commit
-and spend funds: warriors in their Funds box.
-11.2.5 Trade Posts. The Riverfolk score victory points
-when they build trade posts.
-I Trade Disruption. Whenever a trade post is
-removed, the Riverfolk remove half of their
-funds, rounded up, and return the trade post
-to the box.
-11.2.6 Buying Services. At the start of another player's
-Birdsong, that player may buy Riverfolk services.
-I Cost. The buyer must place warriors from
-their supply into the Riverfolk's Payments box
-equal in number to the cost of that service listed
-on the Riverfolk's Services track.
-II Number of Services. Each turn, a player may
-buy one service plus one per clearing with a
-trade post where that player has any pieces.
-III Vagabond Funds. The Vagabond pays for services
-by exhausting itemsfor each item he exhausts
-to do so, the Riverfolk place one of their
-own warriors in the Payments box.
-11.2.7 Riverfolk Services. The Riverfolk offer three services,
-as follows.
-I Hand Card. The buyer takes any card from the
-Riverfolk's hand and adds it to their hand. (The
-buyer may buy this service multiple times as long as
-they have access to enough trade posts.)
-12
-Key References
-Craft (4.1)
-Play a card and activate the crafting pieces of the suits
-listed in its bottom-left corner. (Vagabond exhausts H.)
-The suit of a crafting piece matches its clearing, and you
-can activate each crafting piece only once per turn.
-If you craft an immediate effect, resolve it and discard
-the card. Often these effects will let you take an item
-from the supply on the map and score victory points.
-If the item supply on the map does not have the listed
-item to take, you cannot craft the card.
-If you craft a persistent effect, place the card in your
-play area. You may use its effect. You cannot craft a persistent
-effect if you have one of the same name.
-Move (4.2)
-Take any number of your warriors or your pawn from
-one clearing and move them to one adjacent clearing.
-You must rule the origin, destination, or both. A given
-piece can be moved any number of times per turn.
-Battle (4.3)
-You can battle in a clearing where you have warriors or
-your pawn.
-Step 1: Defender May Ambush. Attacker may cancel
-defender's ambush card by also playing ambush card.
-Step 2: Roll Dice and Add Extra Hits. Attacker will
-deal hits equal to the higher roll, and defender will deal
-hits equal to the lower roll.
-The maximum hits you can deal by rolling equals your
-number of warriors in the clearing of battle.
-extra hits are not limited by warriors. If the defender
-has no warriors in the clearing of battle, the attacker
-deals an extra hit.
-Step 3: Deal Hits Simultaneously. Each hit removes
-one piecewarriors first, then buildings and tokens as
-chosen by the player taking the hits.
-Remember: Score a victory point each time
-you remove an enemy building or token.
-Setup (5.1)
-Step 1: Assign factions, then determine starting player
-and seating order randomly. Give board and pieces.
-Step 2: Place score markers on the "0" space.
-Step 3: Draw and give three cards to each player.
-Step 4: Place ruins in the four slots marked with "R."
-Step 5: Form item supply near the top of the map.
-Step 6: Gather overview cards and the two dice.
-Step 7: Set up factions in setup order (A, B, C, etc.).
-11.5.5 Recruit. Spend one fund to place a warrior in any
-clearing with a river.
-11.5.6 Establish Trade Post with Garrison. Spend two
-funds to place a trade post and a warrior.
-I Choose Clearing. Choose any clearing without
-a trade post that is ruled by any player.
-II Spend Funds. Spend two funds of the player
-who rules the chosen clearing.
-III Place Trade Post, Warrior, and Score. Place
-the matching trade post and one warrior in the
-chosen clearing. Score the victory points listed
-on the space revealed on your faction board.
-11.6 Evening
-Your Evening has two steps in the following order.
-11.6.1 Discard Cards. If you have more than five cards
-in your hand, discard cards of your choice until
-there are five.
-11.6.2 Set Costs. You may move each service marker to
-any space on its track, setting it to a new cost.
-Credits
-Game design by Cole Wehrle.
-Illustrations by Kyle Ferrin.
-Editing by Joshua Yearsley.
-Based on a concept by Patrick Leder.
-Development by Leder Games' St. Paul staff
-Patrick Leder, Cole Wehrle, Jake Tonding, Clayton Capra,
-and Nick Brachmannand by the intrepid Joshua Yearsley.
-Graphic design and layout by Cole Wehrle, Kyle Ferrin,
-Nick Brachmann, and Jaime Willems.
-Proofreading by Kate Unrau.
-Playtesting by Grayson Page & his amazing group (including
-Martin, Jared, Richard, Tony, Harvey, etc.), Chas
-Threlkeld, Drew Wehrle, Blake Wehrle, Corey Porter, Kyle
-Kirk, Matthew Root, Mark von Minden, Davey Janik-Jones,
-the stalwart players of the First Minnesota, Jim Bolland, Melissa
-Lewis-Gentry and Modern Myths, Jennifer Gutterman
-and Hampshire College, Matthew Snow, Justin Dowd and
-the Brass Cat, the whole Owl & Raven crew, Josh Houser,
-Brian Peterson, Ethan Zimmerman, Brandi Leder, Heather
-Brian, and the many others who have played Root across its
-development.
-Cole dedicates this game to his younger brothers and
-sisters, who never let him forget how to play.
-Kyle dedicates this game to his children, who have
-always requested cute animal drawings.
-
-
+Betrayal at House on the Hill
 
 30017607000001 EN
 >>>>>>> 9317a591a638881b40891451c9d95f5ab7729b56
@@ -12459,7 +11275,7 @@ All Other European Countries:
 Wizards of the Coast
 custserv@hasbro.co.uk
 p/a Hasbro Belgium
-'t Hofveld 6D
+Hofveld 6D
 B-1702 Groot-Bijgaarden
 BELGIUM
 +32.70.233.277
@@ -12487,6 +11303,7 @@ House on the Hill, Avalon Hill, and their logos are trademarks of Hasbro, Inc.  
 TM Offi ce. All rights reserved. 2004 Hasbro. Manufactured and distributed by Wizards of the Coast, Inc.
 Wizards of the Coast and its logo are trademarks of Wizards in the U.S.A. and other countries. 2004
 Wizards. Rulebooks printed in the U.S.A.
+
 TABLE OF CONTENTS
 Game Overview......................................................................................... 2
 Game Components ................................................................................... 2
@@ -12776,7 +11593,7 @@ roll dice for a card you've
 drawn or when your explorer
 moves onto a room tile.
 If a card tells you to roll a
-specifi c number of dice, do
+specific number of dice, do
 so and add the number of
 dots on each die to get the
 result of the die roll. Then
@@ -12805,10 +11622,10 @@ MAKING AN ATTACK:
 Once during your turn, you can attack an opponent in the same room. You can't attack
 anyone until after the haunt starts.
 When you make an attack, roll a number of dice equal to your Might. Your opponent does
-the same. Whoever rolls a higher result infl icts physical damage to the other explorer
+the same. Whoever rolls a higher result inflicts physical damage to the other explorer
 or monster. That player defeats his or her opponent. The amount of damage equals the
 difference between the two rolls. (For example, if you roll a 6 and your opponent gets a 5,
-you would infl ict 1 point of physical damage.) If there's a tie, no one gets hurt.
+you would inflict 1 point of physical damage.) If there's a tie, no one gets hurt.
 When you take physical damage, you lower your explorer's Might and/or Speed traits a total
 number of spaces equal to the amount of damage you took.
 Once the haunt begins, if any of your traits (Speed, Might, Sanity, or Knowledge) moves
@@ -12817,7 +11634,7 @@ is, no trait can go below the lowest number on the list (it stays at the lowest 
 Sometimes a card or a haunt lets you make an attack with a trait other than Might. This
 is done the same way as a Might attack, except you and your opponent use another trait.
 For example, if you make a Speed attack, you and your opponent roll dice based on Speed.
-Speed attacks infl ict physical damage like Might attacks.
+Speed attacks inflict physical damage like Might attacks.
 When a card or a haunt lets you attack with Sanity or Knowledge, then you infl ict mental
 damage. You and your opponent move down your Sanity and/or Knowledge traits.
 You can't use a trait to attack an opponent who doesn't have that trait. For instance, if a
@@ -12840,11 +11657,11 @@ the game, you need a result of 4 or less on your haunt roll to
 start the haunt.
 Special Attacks
 Distance attacks: The Revolver allows you to attack
-someone in a room within your line of sighta path that
+someone in a room within your line of sight path that
 leads through an uninterrupted straight line of doors. You
 take no damage if the subject of your distance attack defeats
 you. Some monsters can also make distance attacks.
-Stealing items: If you attack someone and infl ict 2 or
+Stealing items: If you attack someone and inflict 2 or
 more points of physical damage, you can steal a tradable
 item instead of doing the damage. You can't do this with a
 distance attack.
@@ -12873,20 +11690,20 @@ starting now.
  The rest of the players become heroes. They look
 up the haunt with the same number in Secrets of
 Survival and read it together. (The heroes should also
-talk briefl y about their plan for survival.)
+talk briefly about their plan for survival.)
  When everyone is ready (including the traitor), the
 traitor returns to the room. Both sides (the heroes and
 the traitor) do anything the haunt told them to do
 in the Right Now section. (For example, sometimes
 you'll have to put tokens in the house or draw cards.)
 Haunt Turn Order
-The fi rst turn always starts with the player to the traitor's
+The first turn always starts with the player to the traitor's
 left and goes clockwise (further away from the traitor). Each
 of the heroes gets a hero turn. After each hero has had a
 turn, the traitor gets his or her traitor turn. After the traitor's
 turn, any monsters controlled by the traitor get a monster
 turn. (One player gets two turns: one for the traitor and one
-for the monsters.) Then the fi rst hero to the left of the traitor
+for the monsters.) Then the first hero to the left of the traitor
 goes, and so on.
 The heroes and traitor are all still explorers. They can do
 the same things they did before the haunt was revealed,
@@ -12903,6 +11720,7 @@ of at the start of the haunt, but the traitor still gets a turn
 after all the heroes do. Even if the traitor dies, as long as the
 monsters can complete the haunt's goals, the monsters still
 get their turn (and the traitor controls them).
+
 Optional Rule: Selecting
 the Haunt
 If you consult the chart
@@ -12932,7 +11750,7 @@ Revealing the Haunt
 When a player makes a haunt roll and starts the haunt, that
 player looks on the inside front cover of Secrets of Survival
 or the Traitor's Tome. A haunt chart on that page shows
-which haunt has been revealed . . . and who is the traitor.
+which haunt has been revealed...and who is the traitor.
 The chart on the inside cover has a list of omen cards (across
 the top of the chart) and a list of rooms (along the side of the
 chart). Look at the name of the omen card that was drawn

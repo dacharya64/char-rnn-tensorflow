@@ -1,4 +1,4 @@
-﻿GAME NAME:
+GAME NAME:
 Millennium Blades
 
 DESIGNED BY:
@@ -30510,7 +30510,7 @@ Cult of Air
 (enables you to advance multiple steps on
 the track at once)
 
-INTRODUCTION:
+COMPONENTS:
 - 65 natural-colored Workers
 - 40 small Coins (value 1)
 - 25 medium Coins (value 2)
@@ -30540,7 +30540,7 @@ used within the same session.
 - 7 Markers
 - 3 Bridges
 
-COMPONENTS:
+SETUP:
 Put the Game board in the middle of the table and the Cult board
 next to it.
 Assignment of factions
@@ -31268,7 +31268,6 @@ via Cult tracks“ above).
 you only have a total of 7 Priests at your disposal.
 If you do not want to lose a Priest, alternatively, return him to your
 supply (next to your Faction board) and only advance 1 space.
-14
 Cultists love rituals. Their entire life is based on strict
 rules. Even the simplest things are accompanied by secret symbols and invocations of the elements. For instance, when a Cultist wants to fill a bucket of water
 from a well, he first needs to appease the elements of
@@ -31362,7 +31361,6 @@ Indicate a founded Town by choosing and taking a Town tile (see
 Appendix V on page 19) and placing it under one of the Structures
 forming that Town.
 Town tile
-15
 Dwarves are always on a hunt for treasures and valuable ores, thus engage in non-stop burrowing in soil.
 Their mines are usually located in the mountains, but
 in the heat of digging, they sometimes end up digging
@@ -31781,7 +31779,7 @@ passing, get 1 Victory point
 for each of your Dwellings
 on the Game board.
 AUREN
-Ability: -
+Ability:
 Stronghold: After building the Stronghold, immediately and only once
 get 1 Favor tile. Also, take an Action token. As a Special action (once per
 Action phase), you may advance 2 spaces on a Cult track of your choice
@@ -33039,4 +33037,3 @@ tiebreakers are (in order):
 2. Total value of wine in the cellar
 3. Total value of grapes on the crush pad
 Example: : Aging grape and wine tokens with a medium cellar.
-

@@ -1,75 +1,54 @@
-char-rnn-tensorflow
-===
+# Board Game Rulebook Char-RNN
 
-[![Join the chat at https://gitter.im/char-rnn-tensorflow/Lobby](https://badges.gitter.im/char-rnn-tensorflow/Lobby.svg)](https://gitter.im/char-rnn-tensorflow/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Coverage Status](https://coveralls.io/repos/github/sherjilozair/char-rnn-tensorflow/badge.svg)](https://coveralls.io/github/sherjilozair/char-rnn-tensorflow)
-[![Build Status](https://travis-ci.org/sherjilozair/char-rnn-tensorflow.svg?branch=master)](https://travis-ci.org/sherjilozair/char-rnn-tensorflow)
+Fork of sherjilozair's [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow), a tensorflow recurrent neural network inspired by Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn).
 
-Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow.
+Our contribution is a new dataset of board game rules and a network trained on that dataset. It can be retrained with different hyperparameters, as well.
 
-Inspired from Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn).
+## Example Output
+### Characters
+an breading other
+Culture (II, and able to's fed below should by one of its. You can't take a pawn tokens of milital
+the corbor. Zake these 4
+as your occurs animals" with the center.
+Of great that have allow the active
+is special at the know Hunse
+and 15
+Adventures Tokens may become cannot effect on step 20 tactup takes the Gasing the 20
+Crash, Mattant: Markel to use oncle is prite in the
+or Two Faction trader. However, about unlike up
+connect of an operates of
+three effected 3 pieling the fall the same
+you “first discards recemently
+text of Depict, the 762; Many 1 Militair. Anather.
+In the
+Interceptioned Fectory include below the
+detailed Cards
+her Wravead. He do them Predities of conflict the instruction, move they still lame a players, hoster effects take
+this is these is type card rolls 3 switch cats in them, the turn or new die.
+The versicory token action
+can be only part the hound arjuence your.
+2 armest. You
+with the CIOSAnot: The Monoicdly
+Minion Treal "M
+
+### Words
+1 your resources (see page 14).
+The player for the card of the board level Force Areas , When Evade your action may removed on the 1 new one and the game board.
+The same supply to every cards from a research of your character is more than one players with the player to find a card for . settlement board.
+The resolve player who has a special end of the Starting cards in a special actions on page 14).
+The Board for one Ship on the Power for the game she only one cards that who resources you may remove the same loses remaining units each time and place building the
+monster on each deck to the Faction value board. The bottom space cards on its for the player may Age III cards and shown and one workers have a territory resources to 2 Faction on the
+Consumber cards and decides in play the Victory Influence cards and move the board on the game board. The same considered by a player to make the board Influence Power for
+a bank in order and "1"  Monsters have one cards are the Deck of 5 c
+
+
+## The Dataset
+The dataset is a .txt file consisting of plaintext rules for many games from the [BoardGameGeek Top 100](https://boardgamegeek.com/browse/boardgame) at the time of creation. We copy + pasted the rules manually into the plaintext file, and then removed artifacts by hand. We also created some uniform headings for sections of the different rulebooks: "COMPONENTS: " or "GAME NAME: ", for example. Some games were not able to be copied as PDF versions of the rulebook did not allow copy and paste functions.
 
 ## Requirements
 - [Tensorflow 1.0](http://www.tensorflow.org)
 
 ## Basic Usage
-To train with default parameters on the tinyshakespeare corpus, run `python train.py`. To access all the parameters use `python train.py --help`.
-
-To sample from a checkpointed model, `python sample.py`.
-Sampling while the learning is still in progress (to check last checkpoint) works only in CPU or using another GPU.
-To force CPU mode, use `export CUDA_VISIBLE_DEVICES=""` and `unset CUDA_VISIBLE_DEVICES` afterward
-(resp. `set CUDA_VISIBLE_DEVICES=""` and `set CUDA_VISIBLE_DEVICES=` on Windows).
-
-To continue training after interruption or to run on more epochs, `python train.py --init_from=save`
-
-## Datasets
-You can use any plain text file as input. For example you could download [The complete Sherlock Holmes](https://sherlock-holm.es/ascii/) as such:
-
-```bash
-cd data
-mkdir sherlock
-cd sherlock
-wget https://sherlock-holm.es/stories/plain-text/cnus.txt
-mv cnus.txt input.txt
-```
-
-Then start train from the top level directory using `python train.py --data_dir=./data/sherlock/`
-
-A quick tip to concatenate many small disparate `.txt` files into one large training file: `ls *.txt | xargs -L 1 cat >> input.txt`.
-
-## Tuning
-
-Tuning your models is kind of a "dark art" at this point. In general:
-
-1. Start with as much clean input.txt as possible e.g. 50MiB
-2. Start by establishing a baseline using the default settings.
-3. Use tensorboard to compare all of your runs visually to aid in experimenting.
-4. Tweak --rnn_size up somewhat from 128 if you have a lot of input data.
-5. Tweak --num_layers from 2 to 3 but no higher unless you have experience.
-6. Tweak --seq_length up from 50 based on the length of a valid input string
-   (e.g. names are <= 12 characters, sentences may be up to 64 characters, etc).
-   An lstm cell will "remember" for durations longer than this sequence, but the effect falls off for longer character distances.
-7. Finally once you've done all that, only then would I suggest adding some dropout.
-   Start with --output_keep_prob 0.8 and maybe end up with both --input_keep_prob 0.8 --output_keep_prob 0.5 only after exhausting all the above values.
-
-## Tensorboard
-To visualize training progress, model graphs, and internal state histograms:  fire up Tensorboard and point it at your `log_dir`.  E.g.:
-```bash
-$ tensorboard --logdir=./logs/
-```
-
-Then open a browser to [http://localhost:6006](http://localhost:6006) or the correct IP/Port specified.
-
-
-## Roadmap
-- [ ] Add explanatory comments
-- [ ] Expose more command-line arguments
-- [ ] Compare accuracy and performance with char-rnn
-- [ ] More Tensorboard instrumentation
-
-## Contributing
-Please feel free to:
-* Leave feedback in the issues
-* Open a Pull Request
-* Join the [gittr chat](https://gitter.im/char-rnn-tensorflow/Lobby)
-* Share your success stories and data sets!
+To generate some rules run, `python sample.py`. You can also add some arguments to adjust the output:
+`-n` determines the number of characters output.
+`--sample` determines whether characters or words are produced: `sample=1` will generate output on the character level, leading to some nonsense words, whereas `sample=2` will produce only full words.

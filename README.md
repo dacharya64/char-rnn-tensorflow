@@ -41,7 +41,6 @@ monster on each deck to the Faction value board. The bottom space cards on its f
 Consumber cards and decides in play the Victory Influence cards and move the board on the game board. The same considered by a player to make the board Influence Power for
 a bank in order and "1"  Monsters have one cards are the Deck of 5 c
 
-
 ## The Dataset
 The dataset is a .txt file consisting of plaintext rules for many games from the [BoardGameGeek Top 100](https://boardgamegeek.com/browse/boardgame) at the time of creation. We copy + pasted the rules manually into the plaintext file, and then removed artifacts by hand. We also created some uniform headings for sections of the different rulebooks: "COMPONENTS: " or "GAME NAME: ", for example. Some games were not able to be copied as PDF versions of the rulebook did not allow copy and paste functions.
 
@@ -49,6 +48,16 @@ The dataset is a .txt file consisting of plaintext rules for many games from the
 - [Tensorflow 1.0](http://www.tensorflow.org)
 
 ## Basic Usage
-To generate some rules run, `python sample.py`. You can also add some arguments to adjust the output:
+To generate some rules, run `python sample.py`. You can also add some arguments to adjust the output:
+
 `-n` determines the number of characters output.
+
 `--sample` determines whether characters or words are produced: `sample=1` will generate output on the character level, leading to some nonsense words, whereas `sample=2` will produce only full words.
+
+`--prime` determines prime text - you can start the generator off with some text of your own, which it will use to generate the rest of the text.
+
+## Training the Network
+To train the network, run `python train.py --data_dir=./data/rulebook`.
+
+## Adjusting Input
+As this uses sherjilozair's original model, you can swap out our dataset with any text file named "input.txt".
